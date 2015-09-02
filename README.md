@@ -9,6 +9,8 @@
 <li><a>http://bevacqua.github.io/dragula/</a></li>
 <li><a>http://getstream.io/docs/#retrieve</a></li>
 <li><a>http://threejs.org/</a></li>
+<li><a>https://github.com/web-animations/web-animations-js#readme</a></li>
+
 </ul>
 
 <h3>CSS</h3>
