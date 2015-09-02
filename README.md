@@ -16,4 +16,7 @@
 <h3>Design</h3>
 <ul>
 <li><a>http://skillcrush.com/2015/06/30/awesome-free-website-building-tools/</a></li>
+<li><a>http://colorhunt.co/</a></li>
+<li><a>https://github.com/tommoor/tinycon</a></li>
+<li><a>http://trulia.github.io/hologram/</a></li>
 </ul>
