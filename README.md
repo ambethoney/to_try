@@ -10,6 +10,8 @@
 <li><a>http://getstream.io/docs/#retrieve</a></li>
 <li><a>http://threejs.org/</a></li>
 <li><a>https://github.com/web-animations/web-animations-js#readme</a></li>
+<li><a>https://gionkunz.github.io/chartist-js/</a></li>
+<li><a>http://alexk111.github.io/SVG-Morpheus//</a></li>
 
 </ul>
 
